@@ -1,0 +1,6 @@
+\\glbwi234\data$\data\users\a137219\visual studio 2015\Projects\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\SampleConsoleApplication.exe.config
+\\glbwi234\data$\data\users\a137219\visual studio 2015\Projects\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\SampleConsoleApplication.exe
+\\glbwi234\data$\data\users\a137219\visual studio 2015\Projects\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\SampleConsoleApplication.pdb
+\\glbwi234\data$\data\users\a137219\visual studio 2015\Projects\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\SampleConsoleApplication.csprojResolveAssemblyReference.cache
+\\glbwi234\data$\data\users\a137219\visual studio 2015\Projects\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\SampleConsoleApplication.exe
+\\glbwi234\data$\data\users\a137219\visual studio 2015\Projects\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\SampleConsoleApplication.pdb
